@@ -253,7 +253,7 @@ func doTokenRoundTrip(ctx context.Context, req *http.Request) (*Token, error) {
 	var token *Token
 	content, _, _ := mime.ParseMediaType(r.Header.Get("Content-Type"))
 	switch content {
-	case "application/x-www-form-urlencoded", "text/plain":
+	case "application/x-www-form-urlencoded", "text/plain", "text/html":
 		// some endpoints return a query string
 		vals, err := url.ParseQuery(string(body))
 		if err != nil {
