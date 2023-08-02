@@ -6,7 +6,7 @@
 package yahoo // import "golang.org/x/oauth2/yahoo"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is Yahoo's OAuth 2.0 endpoint.

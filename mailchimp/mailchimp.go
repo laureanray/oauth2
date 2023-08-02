@@ -6,7 +6,7 @@
 package mailchimp // import "golang.org/x/oauth2/mailchimp"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is MailChimp's OAuth 2.0 endpoint.

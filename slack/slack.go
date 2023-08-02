@@ -6,7 +6,7 @@
 package slack // import "golang.org/x/oauth2/slack"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is Slack's OAuth 2.0 endpoint.

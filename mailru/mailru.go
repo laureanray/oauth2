@@ -6,7 +6,7 @@
 package mailru // import "golang.org/x/oauth2/mailru"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is Mail.Ru's OAuth 2.0 endpoint.

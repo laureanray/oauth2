@@ -9,8 +9,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/clientcredentials"
+	"github.com/laureanray/oauth2"
+	"github.com/laureanray/oauth2/clientcredentials"
 )
 
 // Endpoint is HipChat's OAuth 2.0 endpoint.

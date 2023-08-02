@@ -44,7 +44,7 @@ import (
 	"net/url"
 	"time"
 
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 var (

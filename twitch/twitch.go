@@ -6,7 +6,7 @@
 package twitch // import "golang.org/x/oauth2/twitch"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is Twitch's OAuth 2.0 endpoint.

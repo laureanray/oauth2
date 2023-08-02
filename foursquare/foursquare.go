@@ -6,7 +6,7 @@
 package foursquare // import "golang.org/x/oauth2/foursquare"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is Foursquare's OAuth 2.0 endpoint.

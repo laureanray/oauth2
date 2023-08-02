@@ -6,7 +6,7 @@
 package heroku // import "golang.org/x/oauth2/heroku"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is Heroku's OAuth 2.0 endpoint.

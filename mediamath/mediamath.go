@@ -6,7 +6,7 @@
 package mediamath // import "golang.org/x/oauth2/mediamath"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is MediaMath's OAuth 2.0 endpoint for production.

@@ -6,7 +6,7 @@
 package fitbit // import "golang.org/x/oauth2/fitbit"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is the Fitbit API's OAuth 2.0 endpoint.

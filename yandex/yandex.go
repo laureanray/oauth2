@@ -6,7 +6,7 @@
 package yandex // import "golang.org/x/oauth2/yandex"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is the Yandex OAuth 2.0 endpoint.

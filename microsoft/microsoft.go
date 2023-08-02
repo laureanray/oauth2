@@ -6,7 +6,7 @@
 package microsoft // import "golang.org/x/oauth2/microsoft"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // LiveConnectEndpoint is Windows's Live ID OAuth 2.0 endpoint.

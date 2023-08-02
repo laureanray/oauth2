@@ -6,7 +6,7 @@
 package cern // import "golang.org/x/oauth2/cern"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/laureanray/oauth2"
 )
 
 // Endpoint is CERN's OAuth 2.0 endpoint.

@@ -15,8 +15,8 @@ import (
 	"time"
 
 	"cloud.google.com/go/compute/metadata"
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/authhandler"
+	"github.com/laureanray/oauth2"
+	"github.com/laureanray/oauth2/authhandler"
 )
 
 const adcSetupURL = "https://cloud.google.com/docs/authentication/external/set-up-adc"
